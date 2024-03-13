@@ -1,0 +1,10 @@
+/public/bundles/
+/public/assets/
+/var/
+/vendor/
+.idea
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
